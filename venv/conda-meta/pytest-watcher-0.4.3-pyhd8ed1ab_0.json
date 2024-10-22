@@ -1,0 +1,251 @@
+{
+    "arch": null,
+    "build": "pyhd8ed1ab_0",
+    "build_number": 0,
+    "build_string": "pyhd8ed1ab_0",
+    "channel": "https://conda.anaconda.org/conda-forge/noarch",
+    "constrains": [],
+    "depends": [
+        "python >=3.7,<4.0",
+        "tomli >=2.0.0",
+        "watchdog >=2.0.0"
+    ],
+    "extracted_package_dir": "/Users/longhair/micromamba/pkgs/pytest-watcher-0.4.3-pyhd8ed1ab_0",
+    "files": [
+        "lib/python3.11/site-packages/LICENSE",
+        "lib/python3.11/site-packages/pytest_watcher-0.4.3.dist-info/INSTALLER",
+        "lib/python3.11/site-packages/pytest_watcher-0.4.3.dist-info/LICENSE",
+        "lib/python3.11/site-packages/pytest_watcher-0.4.3.dist-info/METADATA",
+        "lib/python3.11/site-packages/pytest_watcher-0.4.3.dist-info/RECORD",
+        "lib/python3.11/site-packages/pytest_watcher-0.4.3.dist-info/REQUESTED",
+        "lib/python3.11/site-packages/pytest_watcher-0.4.3.dist-info/WHEEL",
+        "lib/python3.11/site-packages/pytest_watcher-0.4.3.dist-info/direct_url.json",
+        "lib/python3.11/site-packages/pytest_watcher-0.4.3.dist-info/entry_points.txt",
+        "lib/python3.11/site-packages/pytest_watcher/__init__.py",
+        "lib/python3.11/site-packages/pytest_watcher/__main__.py",
+        "lib/python3.11/site-packages/pytest_watcher/commands.py",
+        "lib/python3.11/site-packages/pytest_watcher/config.py",
+        "lib/python3.11/site-packages/pytest_watcher/constants.py",
+        "lib/python3.11/site-packages/pytest_watcher/event_handler.py",
+        "lib/python3.11/site-packages/pytest_watcher/parse.py",
+        "lib/python3.11/site-packages/pytest_watcher/terminal.py",
+        "lib/python3.11/site-packages/pytest_watcher/trigger.py",
+        "lib/python3.11/site-packages/pytest_watcher/watcher.py",
+        "lib/python3.11/site-packages/pytest_watcher/__pycache__/__init__.cpython-311.pyc",
+        "lib/python3.11/site-packages/pytest_watcher/__pycache__/__main__.cpython-311.pyc",
+        "lib/python3.11/site-packages/pytest_watcher/__pycache__/commands.cpython-311.pyc",
+        "lib/python3.11/site-packages/pytest_watcher/__pycache__/config.cpython-311.pyc",
+        "lib/python3.11/site-packages/pytest_watcher/__pycache__/constants.cpython-311.pyc",
+        "lib/python3.11/site-packages/pytest_watcher/__pycache__/event_handler.cpython-311.pyc",
+        "lib/python3.11/site-packages/pytest_watcher/__pycache__/parse.cpython-311.pyc",
+        "lib/python3.11/site-packages/pytest_watcher/__pycache__/terminal.cpython-311.pyc",
+        "lib/python3.11/site-packages/pytest_watcher/__pycache__/trigger.cpython-311.pyc",
+        "lib/python3.11/site-packages/pytest_watcher/__pycache__/watcher.cpython-311.pyc",
+        "bin/ptw",
+        "bin/pytest-watcher"
+    ],
+    "fn": "pytest-watcher-0.4.3-pyhd8ed1ab_0.conda",
+    "license": "MIT",
+    "link": {
+        "source": "/Users/longhair/micromamba/pkgs/pytest-watcher-0.4.3-pyhd8ed1ab_0",
+        "type": 1
+    },
+    "md5": "22a6d4f68afd2683736beb1351034355",
+    "name": "pytest-watcher",
+    "noarch": "python",
+    "package_tarball_full_path": "/Users/longhair/micromamba/pkgs/pytest-watcher-0.4.3-pyhd8ed1ab_0.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/python3.11/site-packages/LICENSE",
+                "path_type": "hardlink",
+                "sha256": "c7e8595c8a65e823fc57f9df77f57335e5fbbae4301d4df9c457e2a929a9035f",
+                "sha256_in_prefix": "c7e8595c8a65e823fc57f9df77f57335e5fbbae4301d4df9c457e2a929a9035f",
+                "size_in_bytes": 1073
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher-0.4.3.dist-info/INSTALLER",
+                "path_type": "hardlink",
+                "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "size_in_bytes": 5
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher-0.4.3.dist-info/LICENSE",
+                "path_type": "hardlink",
+                "sha256": "c7e8595c8a65e823fc57f9df77f57335e5fbbae4301d4df9c457e2a929a9035f",
+                "sha256_in_prefix": "c7e8595c8a65e823fc57f9df77f57335e5fbbae4301d4df9c457e2a929a9035f",
+                "size_in_bytes": 1073
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher-0.4.3.dist-info/METADATA",
+                "path_type": "hardlink",
+                "sha256": "256e7972f53b6adf2eeb98f89d397c2208daa1fe300a388384e543475029e4a2",
+                "sha256_in_prefix": "256e7972f53b6adf2eeb98f89d397c2208daa1fe300a388384e543475029e4a2",
+                "size_in_bytes": 6496
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher-0.4.3.dist-info/RECORD",
+                "path_type": "hardlink",
+                "sha256": "083cebab5248cf58c3d252b98aee4d3351fed5d81250b352b0257b1bba169b70",
+                "sha256_in_prefix": "083cebab5248cf58c3d252b98aee4d3351fed5d81250b352b0257b1bba169b70",
+                "size_in_bytes": 2325
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher-0.4.3.dist-info/REQUESTED",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher-0.4.3.dist-info/WHEEL",
+                "path_type": "hardlink",
+                "sha256": "b0ff78e83ee31421de373e48ab87cbe0bbbe3eb5ab16c81f2d76db91c8886708",
+                "sha256_in_prefix": "b0ff78e83ee31421de373e48ab87cbe0bbbe3eb5ab16c81f2d76db91c8886708",
+                "size_in_bytes": 88
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher-0.4.3.dist-info/direct_url.json",
+                "path_type": "hardlink",
+                "sha256": "ff9a61e0d361d336f4ed1f82102c51d04e5098787c20008c0f8298ef4310ecff",
+                "sha256_in_prefix": "ff9a61e0d361d336f4ed1f82102c51d04e5098787c20008c0f8298ef4310ecff",
+                "size_in_bytes": 110
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher-0.4.3.dist-info/entry_points.txt",
+                "path_type": "hardlink",
+                "sha256": "56e594c882ee19a1f3e7240aee2ce9779a89b43f2efa54853616524c5a6fc46d",
+                "sha256_in_prefix": "56e594c882ee19a1f3e7240aee2ce9779a89b43f2efa54853616524c5a6fc46d",
+                "size_in_bytes": 76
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "c56e11d0e7ac17efe3d7f233ea4d515d61998657adaeb5aec9e9d73d01608e7b",
+                "sha256_in_prefix": "c56e11d0e7ac17efe3d7f233ea4d515d61998657adaeb5aec9e9d73d01608e7b",
+                "size_in_bytes": 76
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher/__main__.py",
+                "path_type": "hardlink",
+                "sha256": "4f523f4e4b537e101bcbaabecf92169f97dd107789a4e8c5e9099002a6b79e86",
+                "sha256_in_prefix": "4f523f4e4b537e101bcbaabecf92169f97dd107789a4e8c5e9099002a6b79e86",
+                "size_in_bytes": 81
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher/commands.py",
+                "path_type": "hardlink",
+                "sha256": "507eeb9aefd27155c0718152172daff1546e6f97b9bd386d7dacba8a07212ac0",
+                "sha256_in_prefix": "507eeb9aefd27155c0718152172daff1546e6f97b9bd386d7dacba8a07212ac0",
+                "size_in_bytes": 4191
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher/config.py",
+                "path_type": "hardlink",
+                "sha256": "52bc4a2c791cac8dc4f4668e97fb6be7ce611a7e91947bed4113d83a43871424",
+                "sha256_in_prefix": "52bc4a2c791cac8dc4f4668e97fb6be7ce611a7e91947bed4113d83a43871424",
+                "size_in_bytes": 2412
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher/constants.py",
+                "path_type": "hardlink",
+                "sha256": "477d823cf4039d6acc41dd2b97cd67f1dc9b88d198845c0589faf49e45f4ca02",
+                "sha256_in_prefix": "477d823cf4039d6acc41dd2b97cd67f1dc9b88d198845c0589faf49e45f4ca02",
+                "size_in_bytes": 56
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher/event_handler.py",
+                "path_type": "hardlink",
+                "sha256": "094dd1cc5b83c57e5f2621d69b72b09a1740e2960002f0d011ed13984a57b288",
+                "sha256_in_prefix": "094dd1cc5b83c57e5f2621d69b72b09a1740e2960002f0d011ed13984a57b288",
+                "size_in_bytes": 1698
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher/parse.py",
+                "path_type": "hardlink",
+                "sha256": "af898a11a8f2c3b89f485b28f1c4c8d10976ee5bbf16eaeb8330894ebde053da",
+                "sha256_in_prefix": "af898a11a8f2c3b89f485b28f1c4c8d10976ee5bbf16eaeb8330894ebde053da",
+                "size_in_bytes": 1854
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher/terminal.py",
+                "path_type": "hardlink",
+                "sha256": "8638874e2af63dc67c4bc47dbcdb89933f9052371a0f2cb4d6fc69ec34a267c4",
+                "sha256_in_prefix": "8638874e2af63dc67c4bc47dbcdb89933f9052371a0f2cb4d6fc69ec34a267c4",
+                "size_in_bytes": 2090
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher/trigger.py",
+                "path_type": "hardlink",
+                "sha256": "6647b530b872fe5f94d074517653464826e854e1b70cb2be5ec0dd1ee65753e3",
+                "sha256_in_prefix": "6647b530b872fe5f94d074517653464826e854e1b70cb2be5ec0dd1ee65753e3",
+                "size_in_bytes": 629
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher/watcher.py",
+                "path_type": "hardlink",
+                "sha256": "84f59889dd5fcc7320bf642d4261b085860172af0e54fb7595ec64990cb4cb05",
+                "sha256_in_prefix": "84f59889dd5fcc7320bf642d4261b085860172af0e54fb7595ec64990cb4cb05",
+                "size_in_bytes": 1962
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher/__pycache__/__init__.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher/__pycache__/__main__.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher/__pycache__/commands.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher/__pycache__/config.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher/__pycache__/constants.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher/__pycache__/event_handler.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher/__pycache__/parse.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher/__pycache__/terminal.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher/__pycache__/trigger.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pytest_watcher/__pycache__/watcher.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "bin/ptw",
+                "path_type": "unix_python_entry_point"
+            },
+            {
+                "_path": "bin/pytest-watcher",
+                "path_type": "unix_python_entry_point"
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": null,
+    "requested_spec": "pytest-watcher=0.4.3",
+    "sha256": "49f2d15b9fbc5fa673d013cc420d0614c5b68c0fd475ee47a5d633fda3debb5c",
+    "size": 15578,
+    "subdir": "noarch",
+    "timestamp": 1724889347725,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/noarch/pytest-watcher-0.4.3-pyhd8ed1ab_0.conda",
+    "version": "0.4.3"
+}
